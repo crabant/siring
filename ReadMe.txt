@@ -18,6 +18,11 @@
     navigate to next bookmark.
   f)bookmarkPrevious
     navigate to previouse bookmark.
-
-3.gccring
+3.add shortcuts to new macros
+  a) Menu -> Options -> "key Assignments"
+  b) select the macro command in "Command list box"
+  c) click "Assign New Key..." button
+  d) press the new shortcut keys
+  e) click "OK" button
+4.gccring
   please refer http://code.google.com/p/gccring/
